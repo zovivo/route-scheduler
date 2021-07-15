@@ -2,17 +2,28 @@
 
   
 
-# Hướng dẫn sử dụng
-
-  
+# Ứng dụng hỗ trợ lập lịch giao hàng áp dụng giải thuật di truyền
 
   
 
 ----
 
+## Demo & Tài liệu
+
+-  [Video demo của project](https://drive.google.com/file/d/1Coe7yUO5_YCULgukeA9fl_ttqK658AvV/view?usp=sharing)
+
+-  [Địa chỉ Web Client](https://route-scheduler.netlify.app/)
+
+- Các class và component của project được mô tả tại Chương 4 của [bài báo cáo](https://drive.google.com/file/d/1c3bakT0dXFsrLz0RWfu3avExlabmN9yg/view?usp=sharing)
+
+- [Back-end](https://github.com/zovivo/route-scheduler/tree/master/route-scheduler-pr/back-end): được xây dựng bằng Java (version 8) và Spring Framework (Spring Boot version 2.4.5)
+- [Front-end](https://github.com/zovivo/route-scheduler/tree/master/route-scheduler-pr/front-end): được xây dựng bằng thư viện ReactJS (version 16.13) và CoreUI (version 3.2)
   
 
-## Quản lý thông tin cơ bản
+----
+
+
+## Hướng dẫn sử dụng chức năng quản lý thông tin cơ bản
 
   
 
@@ -255,16 +266,3 @@
 - Màn hình xác nhận người dùng có muốn khởi tạo một lộ trình cho các xe theo các thông tin cơ bản của bài toán đã được cấu hình từ bước 1 và bước 2. Người dùng có thể bấm hủy bỏ để quay về bước 1.
 
  ![alt](/images/confirm.png)
-
-----
-
-## Demo & Tài liệu
-
--  [Video demo của project](https://drive.google.com/file/d/1Coe7yUO5_YCULgukeA9fl_ttqK658AvV/view?usp=sharing)
-
--  [Địa chỉ Web Client](https://route-scheduler.netlify.app/)
-
-- Các class và component của project được mô tả tại Chương 4 của [bài báo cáo](https://drive.google.com/file/d/1c3bakT0dXFsrLz0RWfu3avExlabmN9yg/view?usp=sharing)
-
-- [Back-end](https://github.com/zovivo/route-scheduler/tree/master/route-scheduler-pr/back-end): được xây dựng bằng Java (version 8) và Spring Framework (Spring Boot version 2.4.5)
-- [Front-end](https://github.com/zovivo/route-scheduler/tree/master/route-scheduler-pr/front-end): được xây dựng bằng thư viện ReactJS (version 16.13) và CoreUI (version 3.2)
