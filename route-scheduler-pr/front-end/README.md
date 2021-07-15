@@ -1,16 +1,7 @@
-
-
-  
-
-# Hướng dẫn sử dụng
-
-  
-
-  
+# Giao diện Frontend của ứng dụng hỗ trợ lập lịch giao hàng
 
 ----
-
-  
+ 
 
 ## Quản lý thông tin cơ bản
 
@@ -232,7 +223,7 @@
 - Mã đơn hàng là duy nhất.
 - Chế độ giao hàng mặc định là tiêu chuẩn.
 
-## Khởi tạo lộ trình tùy chỉnh
+## Khởi tạo lộ trình
 
 *Là chức năng chính của hệ thống, trong một khoảng thời gian cho phép thực hiện xây dựng một giải pháp là lộ trình của các xe sao cho tổng chi phí là tối ưu, gồm có 3 bước: Cấu hình thuật toán, Phân cụm khách hàng và Xác nhận khởi tạo*
 
@@ -258,10 +249,12 @@
 
 ----
 
-## Demo & Tài liệu
+## Hướng dẫn chạy thử
+- Install npm or yarn(recommend): Install via Chocolatey on window
 
--  [Video demo của project](https://drive.google.com/file/d/1Coe7yUO5_YCULgukeA9fl_ttqK658AvV/view?usp=sharing)
+	`choco install yarn`
 
--  [Địa chỉ Web Client](https://route-scheduler.netlify.app/)
+- In the front-end project directory, you can run command below to start client:
 
-- Các class và component của project được mô tả tại Chương 4 của [bài báo cáo](https://drive.google.com/file/d/1c3bakT0dXFsrLz0RWfu3avExlabmN9yg/view?usp=sharing)
+	`yarn start`
+
