@@ -266,3 +266,7 @@
 - Màn hình xác nhận người dùng có muốn khởi tạo một lộ trình cho các xe theo các thông tin cơ bản của bài toán đã được cấu hình từ bước 1 và bước 2. Người dùng có thể bấm hủy bỏ để quay về bước 1.
 
  ![alt](/images/confirm.png)
+
+  **Kết quả khởi tạo lộ trình thành công** :
+
+   ![alt](/images/route-solution.png)
