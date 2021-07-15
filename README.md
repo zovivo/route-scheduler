@@ -265,3 +265,6 @@
 -  [Địa chỉ Web Client](https://route-scheduler.netlify.app/)
 
 - Các class và component của project được mô tả tại Chương 4 của [bài báo cáo](https://drive.google.com/file/d/1c3bakT0dXFsrLz0RWfu3avExlabmN9yg/view?usp=sharing)
+
+- [Back-end](https://github.com/zovivo/route-scheduler/tree/master/route-scheduler-pr/back-end): được xây dựng bằng Java (version 8) và Spring Framework (Spring Boot version 2.4.5)
+- [Front-end](https://github.com/zovivo/route-scheduler/tree/master/route-scheduler-pr/front-end): được xây dựng bằng thư viện ReactJS (version 16.13) và CoreUI (version 3.2)
